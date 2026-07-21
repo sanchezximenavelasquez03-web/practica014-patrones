@@ -20,7 +20,6 @@ notifica automáticamente a todos los sistemas suscritos cada vez
 que su estado cambia:
 Recibido → En preparación → Listo
 
-
 Esto desacopla el pedido de los sistemas que lo escuchan, permitiendo
 agregar o quitar observadores sin modificar la lógica central.
 
@@ -40,8 +39,7 @@ cafeteria-observer/
 
 
 ## 🏗️ Diagrama de clases
-
-
+<img width="6803" height="4670" alt="image" src="https://github.com/user-attachments/assets/5a655959-14f6-48ae-923d-d5782d34c0d3" />
 
 ## ▶️ Cómo ejecutar
 
